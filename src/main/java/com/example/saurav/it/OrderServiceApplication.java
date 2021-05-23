@@ -8,6 +8,10 @@ public class OrderServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OrderServiceApplication.class, args);
+	
+		int i=20;
+		int c=10;
+		int v=20+30;
 	}
 
 }
